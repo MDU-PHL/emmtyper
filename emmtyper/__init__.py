@@ -2,7 +2,7 @@
 emmtyper: an in silico EMM typer for Streptococcus pyogenes
 """
 __name__ = "emmtyper"
-__version__ = "0.2.1"
+__version__ = "0.2.2"
 __author__ = "Andre Tan"
 __email__ = "andre.sutanto.91@gmail.com"
 __url__ = "https://github.com/MDUPHL/emmtyper"

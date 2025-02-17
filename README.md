@@ -105,7 +105,7 @@ Usage: emmtyper [OPTIONS] [FASTA]...
 Options:
   --version                       Show the version and exit.
   -w, --workflow [blast|pcr]      Choose workflow  [default: blast]
-  -d, --blast_db TEXT             Path to EMM BLAST DB  [default:
+  -db, --blast_db TEXT            Path to EMM BLAST DB  [default:
                                   /path/to/emmtyper/db/emm.fna]
   -k, --keep                      Keep BLAST and isPcr output files.
                                   [default: False]

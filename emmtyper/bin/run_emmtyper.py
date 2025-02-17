@@ -34,7 +34,7 @@ logger = logging.getLogger(__name__)
     show_default=True,
 )
 @click.option(
-    "-d",
+    "-db",
     "--blast_db",
     default=os.environ.get("EMM_DB", DEFAULT_DB),
     help="Path to EMM BLAST DB",
